@@ -35,7 +35,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://gifdb.com/images/high/milk-and-mocha-kiss-2vwjr4s7usa2g5kj.gif" />
-          <div className="my-4 text-4xl font-bold">Ouiiiii, bibou content :) !!!</div>
+          <div className="my-4 text-4xl font-bold">Ouiiiii, bibou content ❤ !!!</div>
         </>
       ) : (
         <>
